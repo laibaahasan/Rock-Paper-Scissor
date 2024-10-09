@@ -1,0 +1,4 @@
+ ◦ Implemented score tracking to display user and computer scores dynamically. 
+ ◦ Designed a responsive layout ensuring a seamless experience across different devices. 
+ ◦ Utilized JavaScript for game logic to determine game outcomes and update scores. 
+ ◦ Enhanced user experience with real-time game messages indicating game status and results
